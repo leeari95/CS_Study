@@ -10,7 +10,7 @@
 
 * [운영체제 강의(2014) - 반효경 교수님](http://www.kocw.net/home/search/kemView.do?kemId=1046323)
 * [네트워크 강의(2015) - 이석복 교수님](http://www.kocw.net/home/cview.do?mty=p&kemId=1169634)
-* [데이터베이스 강의(2015)](http://www.kocw.net/home/cview.do?cid=9c591659f017851e)
+* [데이터베이스 강의(2015) - 백현미 교수님](http://www.kocw.net/home/cview.do?cid=9c591659f017851e)
 
 ---
 
