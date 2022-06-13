@@ -15,7 +15,7 @@
 ---
 
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
@@ -31,6 +31,7 @@ _7 TILs and counting..._
 - [OS - 05. Process 1](OS/OS_-_05._Process_1.md)
 - [OS - 06. Process 2](OS/OS_-_06._Process_2.md)
 - [OS - 07. Process 3](OS/OS_-_07._Process_3.md)
+- [[OS - 08. Process Management 1]](OS/OS_-_08._Process_Management_1.md)
 
 [1]: https://github.com/marketplace/actions/til-auto-format-readme
 
