@@ -15,7 +15,7 @@
 ---
 
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
@@ -35,6 +35,7 @@ _11 TILs and counting..._
 - [OS - 09. Process Management 2](OS/OS_-_09._Process_Management_2.md)
 - [OS - 10. CPU Scheduling 1](OS/OS_-_10._CPU_Scheduling_1.md)
 - [OS - 11. CPU Scheduling 2](OS/OS_-_11._CPU_Scheduling_2.md)
+- [OS - 12. Process Synchronization 1](OS/OS_-_12._Process_Synchronization_1.md)
 
 [1]: https://github.com/marketplace/actions/til-auto-format-readme
 
