@@ -15,7 +15,7 @@
 ---
 
 
-_14 TILs and counting..._
+_15 TILs and counting..._
 
 ---
 
@@ -38,6 +38,7 @@ _14 TILs and counting..._
 - [OS - 12. Process Synchronization 1](OS/OS_-_12._Process_Synchronization_1.md)
 - [OS - 13. Process Synchronization 1-1](OS/OS_-_13._Process_Synchronization_1-1.md)
 - [OS - 14. Process Synchronization 2](OS/OS_-_14._Process_Synchronization_2.md)
+- [OS - 15. Process Synchronization 3](OS/OS_-_15._Process_Synchronization_3.md)
 
 [1]: https://github.com/marketplace/actions/til-auto-format-readme
 
